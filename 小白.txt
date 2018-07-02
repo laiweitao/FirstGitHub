@@ -1,0 +1,12 @@
+精确匹配，用引号
+通配符查询，用*
+站内搜索，用 site:站点，stackoverflow 是屈指可数的研发社区，这么搜的意义你懂的，举例，"elasticsearch timeout" site:stackoverflow.com
+文件搜索， 用 filetype:pdf/ppt，当要入门学新技术的时候很方便
+条件筛选，用-X排除关键字，注意-后面不要加空格，举例： "mysql foreign key"   -nodes 表示从结果中排除带有nodes
+多词搜索，用OR
+http://wiki.10101111.com/pages/viewpage.action?pageId=56328508
+
+
+
+npm install --registry=http://r.npm.10101111.com/ 
+npm run dev

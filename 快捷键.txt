@@ -1,0 +1,10 @@
+﻿格式化代码              ctrl alt L
+选中一行                ctrl W
+选中一行上下移动        ctrl shift 上下
+复制一行                ctrl D
+删除一行                ctrl Y
+方法参数类型            ctrl Q
+重命名                  shift F6
+全局搜索                ctrl shift F
+全局替换                ctrl shift R
+关闭窗口                ctrl F4
