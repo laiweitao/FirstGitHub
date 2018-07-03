@@ -17,4 +17,4 @@ git push -u origin master
 合并某分支到当前分支：git merge <name>
 删除分支：git branch -d <name>
 查看远程分支：git branch -r 
-本地分支提交到远程分支：git push是<本地分支>:<远程分支>。
+本地分支提交到远程分支：git push origin <本地分支>:<远程分支>
